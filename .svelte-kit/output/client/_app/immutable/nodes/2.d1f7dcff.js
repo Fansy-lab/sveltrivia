@@ -1,1 +1,0 @@
-import{S as n,i as s,s as e,o as a}from"../chunks/index.4c131317.js";import{j as r}from"../chunks/singletons.926978d2.js";const i=r("goto");function c(o){return a(()=>{i("/playground")}),[]}class m extends n{constructor(t){super(),s(this,t,c,null,e,{})}}export{m as component};
